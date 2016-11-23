@@ -26,6 +26,7 @@
     </types>
     <types>
         <members>Child_Sample_Object__c.Parent__c</members>
+        <members>SampleObject__c.Sample_Field_2__c</members>
         <members>SampleObject__c.Sample_Field__c</members>
         <name>CustomField</name>
     </types>
@@ -63,5 +64,5 @@
         <members>SampleObject__c.Just_Testing</members>
         <name>WebLink</name>
     </types>
-    <version>31.0</version>
+    <version>33.0</version>
 </Package>
